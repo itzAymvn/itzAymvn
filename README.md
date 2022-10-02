@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ayman</h1>
+<h1 align="center">Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Ayman</h1>
 <h3 align="center">A fullstack developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzaymvn&label=Profile%20views&color=0e75b6&style=flat" alt="itzaymvn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzAymvn&label=Views&color=blue&style=plastic&style=for-the-badge" alt="itzAymvn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzaymvn" alt="itzaymvn" /></a> </p>
 
