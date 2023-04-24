@@ -1,9 +1,14 @@
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Ayman</h1>
 <h3 align="center">A fullstack developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzAymvn&label=Profile%20Views&color=blueviolet&style=flat-square" alt="itzAymvn" /> </p>
-<p align="left"> <a href="https://github.com/itzaymvn"><img src="https://github-readme-stats.vercel.app/api?username=itzaymvn&show_icons=true&count_private=true&hide=stars,issues&theme=tokyonight" alt="itzaymvn" /></a> </p>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=itzaymvn&theme=onedark" alt="itzaymvn" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=itzAymvn&label=Profile%20Views&color=blueviolet&style=flat-square" alt="itzAymvn" />
+</p>
+<p align="left">
+  <a href="https://github.com/itzaymvn">
+    <img src="https://github-readme-stats.vercel.app/api?username=itzaymvn&show_icons=true&count_private=true&hide=stars,issues&theme=tokyonight" alt="itzaymvn" />
+  </a>
+</p>
 
 ## 🌎 Connect with me
 
