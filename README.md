@@ -1,5 +1,5 @@
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Ayman</h1>
-<h3 align="center">A fullstack developer from Morocco</h3>
+<h3 align="center">A fullstack developer from Morocco, and I love Javascript.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=itzAymvn&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="itzAymvn" />
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-## 🌎 Connect with me
+## 🌎 Contact me
 
 <p align="left">
 <a href="https://twitter.com/itzaymvn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
@@ -24,7 +24,7 @@
 
 ## 🔧 Technologies & Tools
 
-### • Frontend
+### • Front-end
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +37,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### • Backend
+### • Back-end
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
