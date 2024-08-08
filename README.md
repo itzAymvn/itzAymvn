@@ -8,6 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=itzAymvn&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="itzAymvn" />
 </p>
 
+<p>
+  Welcome! I'm Ayman, fullstack web developer from Morocco. I specialize in crafting dynamic and user-friendly web applications. Explore my projects and skills, featuring JavaScript, React, Node.js, and more. I'm a quick learner and team player, passionate about creating amazing applications. Contact me to bring your ideas to life!
+</p>
+
+
+
 ## 🌎 Let's Connect
 
 <p align="left">
