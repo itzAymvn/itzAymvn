@@ -46,7 +46,7 @@ I'm Ayman, a **full-stack developer** passionate about building dynamic and user
 - [**@itzaymvn** on Twitter](https://twitter.com/itzaymvn)
 - [**@itzaymvn** on LinkedIn](https://www.linkedin.com/in/aymvn/)
 - [**@itzaymvn** on Instagram](https://www.instagram.com/itzaymvn)
-- [**@1169294300597727387** on Discord](https://discord.com/users/1169294300597727387)
+- [**@aymvn** on Discord](https://discord.com/users/1169294300597727387)
 
 ---
 
